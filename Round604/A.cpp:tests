@@ -1,0 +1,11 @@
+[
+	{
+		"test": "3\na???cb\na??bbc\na?b?c\n"
+	},
+	{
+		"test": "1\na\n"
+	},
+	{
+		"test": "1\n?\n"
+	}
+]

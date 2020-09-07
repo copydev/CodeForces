@@ -1,0 +1,11 @@
+[
+	{
+		"test": "1\nDLUR\n"
+	},
+	{
+		"test": "1\nLLRR\n"
+	},
+	{
+		"test": "6\nLRU\nDURLDRUDRULRDURDDL\nLRUDDLRUDRUL\nLLLLRRRR\nURDUR\nLLL\n"
+	}
+]
